@@ -100,12 +100,7 @@ password = 306537
 enable_moonraker_api = True
 instance_name = ender3v2_mqtt
 status_objects = 
-	toolhead
-	extruder
 	print_stats
-	heater_bed
-	idle_timeout
-	gcode_move
 	display_status
 publish_split_status = True
 default_qos = 0
